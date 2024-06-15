@@ -1,0 +1,18 @@
+.active {
+    color: #E6B701;
+}
+
+.inactive {
+    color: #000000;
+}
+
+.star-rating
+{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .5rem;
+    font-size: 4rem;
+}
